@@ -1,4 +1,4 @@
-# E-Commerce-Analysis-Project
+# E-Commerce_Analysis
 Python (Pandas) ile veri temizliği ve Tableau ile interaktif dashboard tasarımı içeren uçtan uca E-Ticaret veri analizi projesi. (Seasonal Trends & Customer Analytics)
 
 ## 📊 Proje Çıktısı (Dashboard)
